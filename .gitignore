@@ -1,0 +1,5 @@
+*.path
+*.xlsx
+build/
+dist/
+history/
